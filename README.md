@@ -25,28 +25,49 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
-<img width="934" height="649" alt="image" src="https://github.com/user-attachments/assets/1d2df3db-19b6-4d04-a975-ac42d8048acc" />
-
+<img width="1600" height="1105" alt="image" src="https://github.com/user-attachments/assets/93c9b3c2-f053-402b-a734-78fb88f7742f" />
 
 
 **MODEL GRAPH:**
-<img width="665" height="522" alt="image" src="https://github.com/user-attachments/assets/056cb59e-9527-4b0e-9265-737ee0771cb5" />
-
+<img width="1600" height="1517" alt="image" src="https://github.com/user-attachments/assets/a02629c0-3897-4311-ab27-9434bc7c938e" />
 
 Resistance (RL) in ohm
 
 **TABULATION:**
- 
-<img width="670" height="546" alt="image" src="https://github.com/user-attachments/assets/55cb70dc-137f-48cd-bbc0-bcbccb720bf3" />
-			
+ <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd0a6b66-6495-4ee4-8140-2982d169ea71" />
+
+**TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
+
+S.No	Load
+Resistance(RL) in ohm	Load
+Current (IL) in mA	Load
+voltage (VL) in volts	Load Power (PL) in watts
+1.				
+2.				
+3.				
+4.				
+5.				
 
 
+**TABLE (2): FOR PRACTICAL CALCULATION**
 
-**THEORETICAL CALCULATION:**
-<img width="634" height="628" alt="image" src="https://github.com/user-attachments/assets/f05b1fcf-8db9-4462-a972-ecb2c870adbf" />
-<img width="737" height="589" alt="image" src="https://github.com/user-attachments/assets/c3502502-2927-429d-bfc7-661b218ea371" />
+S.No	Load
+Resistance(RL) in ohm	Load
+Current (IL) in amps	Load
+voltage (VL) in volts	Load Power (PL) in watts
+1.				
+2.				
+3.				
+4.				
+5.				
 
 
+**MODEL CALCULATION:**
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/89e826c7-3910-4366-b033-139653b6503f" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/67792303-22ff-4a36-a04a-fa533cf1b868" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f221e4c3-d36a-4c45-862c-8c410cb01598" />
+**MARKSPLITUP**
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/765cb2d6-736c-4d7b-a795-9333332fa5e2" />
 
 **PROCEDURE:**
 
@@ -61,3 +82,5 @@ Resistance (RL) in ohm
 **RESULT:**
 
 Thus maximum power transfer theorem is verified practically and theoretically
+
+
